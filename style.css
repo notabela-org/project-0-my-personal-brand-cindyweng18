@@ -29,3 +29,16 @@ body {
 h2 {
     text-align: center;
 }
+
+img {
+    float:left;
+    margin-right: 15px;
+}
+
+.footer {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    clear:both;
+}

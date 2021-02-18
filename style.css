@@ -1,33 +1,41 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FAAA8D;
+}
+
+div {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .header {
     padding: 30px;
     text-align: center;
-    background-color: aquamarine;
+    background-color: #50B2C0;
 }
 
 .nav {
-    background-color:tan;
+    background-color:#201E1F;
     overflow: hidden;
 }
 
 .nav a {
     float:left;
-    color: black;
+    color: white;
     text-align: center;
-    padding: 16px 130px;
+    padding: 16px 125px;
     text-decoration: none;
+    font-size: 18px;
   }
 
 .nav a:hover {
-    background-color: coral;
+    background-color: #FF4000;
     color:white;
 }
 
 .main {
     float:right;
+    background-color: #FEEFDD;
 }
 
 h2 {

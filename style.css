@@ -35,6 +35,7 @@ div {
 
 .main {
     background-color: #FEEFDD;
+    padding: 30px;
 }
 
 h2 {
@@ -51,6 +52,17 @@ img {
 
 li {
     margin: 10px 0;
+}
+
+dl {
+    line-height: 20px;
+}
+
+dt {
+    font-weight: bold;
+    clear:both;
+    overflow:hidden;
+    line-height: 35px;
 }
 
 .footer {
